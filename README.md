@@ -18,7 +18,7 @@ A simple Python tool to check password strength and security created in vscode
 ### Run the Program
 ```bash
 python password_checker.py
-## Demo Screenshots
+### Demo Screenshots
 
 ### Strong Password
 ![Strong Password](screenshots demo-strong.png)
