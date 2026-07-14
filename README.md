@@ -1,6 +1,6 @@
 # 🔐 Password Strength Checker
 
-A simple Python tool to check password strength and security.
+A simple Python tool to check password strength and security created in vscode
 
 ## Features
 - Checks password length
